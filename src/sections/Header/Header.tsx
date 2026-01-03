@@ -2,7 +2,7 @@ export function Header() {
     return (
         <header className="w-full fixed top-0 z-50 bg-white/90 backdrop-blur border-b">
             <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
-                <span className="font-serif text-lg text-primary">
+                <span className="font-serif text-xl">
                     Beatriz Silveira
                 </span>
 
