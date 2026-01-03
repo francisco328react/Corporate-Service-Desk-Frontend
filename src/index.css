@@ -1,11 +1,11 @@
 @import "tailwindcss";
 
 @theme {
-    --primary: "#3A7CA5",
-    --secondary: "#F5F3EF",
-    --accent: "#8B5E3C",
-    --muted: "#6B7280",
+    --text-primary: "#3A7CA5",
+    --text-secondary: "#F5F3EF",
+    --text-accent: "#8B5E3C",
+    --text-muted: "#6B7280",
 
-    --sans: ["Inter", "sans-serif"],
-    --serif: ["Playfair Display", "serif"],
+    --font-sans: ["Inter", "sans-serif"],
+    --font-serif: ["Playfair Display", "serif"],
 }
