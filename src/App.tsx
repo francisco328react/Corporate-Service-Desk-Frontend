@@ -4,6 +4,7 @@ import { About } from "./sections/About/About";
 import { Services } from "./sections/Services/Services";
 import { Method } from "./sections/Method/Method";
 import { Testimonials } from "./sections/Testimonials/Testimonials";
+import { FAQ } from "./sections/FAQ/FAQ";
 
 export function App() {
   return (
@@ -14,6 +15,7 @@ export function App() {
       <Services />
       <Method />
       <Testimonials />
+      <FAQ />
     </div>
   );
 }
