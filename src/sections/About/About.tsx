@@ -22,8 +22,8 @@ export function About() {
           </h2>
 
           <p className="text-muted leading-relaxed">
-            Psicóloga Clínica e Social, formada desde 22 de julho de 2022, Beatriz
-            Silveira atua com foco em acolhimento, escuta ativa e ética
+            Psicóloga Clínica e Social, formada desde 22 de julho de 2022,
+            atua com foco em acolhimento, escuta ativa e ética
             profissional, oferecendo um espaço seguro para o cuidado da saúde
             emocional.
           </p>

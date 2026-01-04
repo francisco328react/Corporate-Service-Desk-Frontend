@@ -6,7 +6,7 @@ export function Hero() {
       <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
 
         <div>
-          <h1 className="font-serif text-4xl md:text-5xl leading-tight mb-6">
+          <h1 className="font-serif text-4xl md:text-xl leading-tight mb-6">
             Psicoterapia humanizada para você cuidar da sua saúde emocional
           </h1>
 
@@ -24,7 +24,7 @@ export function Hero() {
           </a>
         </div>
 
-        <div className="relative flex justify-center">
+        <div className="relative flex justify-center p-3">
           <img
             src={perfilBia}
             alt="Psicóloga Beatriz Silveira"
